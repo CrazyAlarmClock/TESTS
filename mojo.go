@@ -1,4 +1,4 @@
-package TESTS
+package main
 
 
 import (
